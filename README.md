@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anoop.
-- 👀 I’m interested in API and microservices development using Java.
+- 👀 I’m interested in API and microservices development.
 - 🌱 I’m currently learning Kubernetes and OpenShift.
-- 💞️ I’m looking to collaborate on Java, Docker, Kubernetes and OpenShift projects
+- 💞️ I’m looking to collaborate on Java, Python, Linux, Docker, Kubernetes and OpenShift projects
 - 📫 Please reach me at hi@apr.one
 
 <!---
